@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ggxx39/demand-radar/main/schemas/opportunity-score.schema.json",
+  "$id": "https://raw.githubusercontent.com/haossll666/demand-radar/main/schemas/opportunity-score.schema.json",
   "title": "OpportunityScore",
   "description": "Standardized 8-dimensional opportunity scoring schema for indie hackers and solo founders, featuring weighted rubric calculation and fatal kill-criteria gates.",
   "type": "object",

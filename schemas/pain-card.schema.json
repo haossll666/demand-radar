@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ggxx39/demand-radar/main/schemas/pain-card.schema.json",
+  "$id": "https://raw.githubusercontent.com/haossll666/demand-radar/main/schemas/pain-card.schema.json",
   "title": "PainCard",
   "description": "Standardized schema for atomic pain point cards extracted from organic developer and user conversations (Reddit, HN, X, GitHub, App Store, Discord).",
   "type": "object",

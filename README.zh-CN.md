@@ -175,7 +175,7 @@ demand-radar/
    ```
 2. 克隆本仓库：
    ```bash
-   git clone https://github.com/ggxx39/demand-radar.git
+   git clone https://github.com/haossll666/demand-radar.git
    cd demand-radar
    ```
 3. 运行本地 Schema 校验套件，确认运行环境完备：
@@ -205,4 +205,4 @@ npm run validate
 
 ## 📄 许可协议
 
-本项目采用 [MIT License](LICENSE)。版权所有 (c) 2026 [ggxx39](https://github.com/ggxx39)。可自由用于个人学习、开源研发与商业化市场洞察。
+本项目采用 [MIT License](LICENSE)。版权所有 (c) 2026 [ggxx39](https://github.com/haossll666)。可自由用于个人学习、开源研发与商业化市场洞察。

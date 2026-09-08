@@ -179,7 +179,7 @@ No single tool covers the entire loop yet, but you can assemble an ultra-effecti
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/ggxx39/demand-radar.git
+   git clone https://github.com/haossll666/demand-radar.git
    cd demand-radar
    ```
 3. Run the schema validation suite:
@@ -209,4 +209,4 @@ npm run validate
 
 ## 📄 License
 
-MIT License. Copyright (c) 2026 [ggxx39](https://github.com/ggxx39). Free for personal, open-source, and commercial research.
+MIT License. Copyright (c) 2026 [ggxx39](https://github.com/haossll666). Free for personal, open-source, and commercial research.
